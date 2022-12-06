@@ -1,4 +1,4 @@
-# Stat-DSM
+# Stat-DSM (IEEE TKDE)
 Stat-DSM: Statistically Discriminative Sub-Trajectory Mining With Multiple Testing Correction
 
 
